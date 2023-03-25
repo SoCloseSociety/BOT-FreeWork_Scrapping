@@ -1,4 +1,4 @@
-<h1>Selenium Job Scraper</h1>
+<h1>FreeWork Job Scraper</h1>
 
 <p>This is a Python script to scrape job postings from <a href="https://www.free-work.com/">FreeWork</a> using Selenium and BeautifulSoup. The script scrapes the job postings based on a provided search link and saves the scraped data in a CSV file.</p>
 
